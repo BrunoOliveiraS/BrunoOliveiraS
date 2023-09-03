@@ -1,4 +1,4 @@
-<img alt="Gif de um desenvolvedor programando" align="right" width="335"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img alt="Gif de um desenvolvedor programando" align="right" width="325"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left">
   
